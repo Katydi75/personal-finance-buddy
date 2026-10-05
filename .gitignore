@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Generated data (audio, transcripts, vector store)
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store

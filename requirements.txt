@@ -1,0 +1,24 @@
+# LLM / RAG
+langchain>=0.3,<0.4
+langchain-community>=0.3,<0.4
+langchain-openai>=0.3,<0.4
+langchain-chroma>=0.2,<0.3
+langchain-text-splitters>=0.3,<0.4
+langsmith
+chromadb
+duckduckgo-search
+python-dotenv
+
+# Data ingestion (YouTube → Whisper)
+openai-whisper
+yt-dlp
+
+# Gradio app + exports
+gradio
+fpdf2
+openpyxl
+pandas
+SpeechRecognition
+
+# Notebook
+ipykernel
